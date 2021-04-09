@@ -1,0 +1,13 @@
+Le projet porte sur le sujet N°1 : Grille de Connaissance
+Le fichier sql contennant les differentes tables
+Il y'a un fichier jar qui ne marche pas beaucoup l'erreur est du au fichier que nous avons telecharger
+Admin
+Login admin : qems
+password : adminn
+
+Apprenant 
+login : user
+password : user
+
+
+Nous l'avons executé sur Windows et avons utilisé Netbeans pour le code java et du swing pour l'interface
